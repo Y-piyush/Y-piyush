@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋🏻, I'm Piyush</h1>
 <h3 align="center">A passionate developer 📚 from India</h3>
-<h3 align="center">I'm a student of
+<h3 align="center"> PassOut from
     🎓 <a href="https://www.iitism.ac.in/">IIT (ISM) Dhanbad</a></h3>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="350"/>
 
 - 📫 How to reach me **ypiyush9415@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aucBSnrpxdiaP6inZl0HjXcopbJfULCJ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1VmX6ZQvmeJjQhvVBQsUHKuFRksPzZnTE/edit?usp=sharing&ouid=114540343116489216544&rtpof=true&sd=true)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
